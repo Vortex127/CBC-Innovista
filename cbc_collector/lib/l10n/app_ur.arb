@@ -1,0 +1,80 @@
+{
+    "@@locale": "ur",
+    "appTitle": "سی بی سی کلیکٹر",
+    "welcomeBack": "خوش آمدید",
+    "createAccount": "اکاؤنٹ بنائیں",
+    "email": "ای میل",
+    "password": "پاس ورڈ",
+    "home": "ہوم",
+    "collections": "مجموعہ",
+    "profile": "پروفائل",
+    "takePhoto": "تصویر لیں",
+    "retake": "دوبارہ لیں",
+    "upload": "اپ لوڈ",
+    "all": "تمام",
+    "ongoing": "جاری",
+    "completed": "مکمل",
+    "location": "مقام",
+    "date": "تاریخ",
+    "statistics": "شماریات",
+    "settings": "ترتیبات",
+    "personalInfo": "ذاتی معلومات",
+    "notifications": "اطلاعات",
+    "language": "زبان",
+    "helpAndSupport": "مدد اور معاونت",
+    "logout": "لاگ آؤٹ",
+    "needAccount": "اکاؤنٹ نہیں ہے؟ سائن اپ کریں",
+    "haveAccount": "اکاؤنٹ ہے؟ لاگ ان کریں",
+    "login": "لاگ ان",
+    "signUp": "سائن اپ",
+    "collectorId": "کلیکٹر آئی ڈی",
+    "todayCollections": "آج کے مجموعے",
+    "totalWeight": "کل وزن",
+    "activeRequests": "فعال درخواستیں",
+    "collectionArea": "مجموعہ کا علاقہ",
+    "startCollection": "مجموعہ شروع کریں",
+    "viewRequests": "درخواستیں دیکھیں",
+    "welcomeBackUser": "خوش آمدید!",
+    "totalCollections": "کل مجموعے",
+    "rating": "درجہ بندی",
+    "collection": "مجموعہ",
+    "errorInitializingCamera": "کیمرہ شروع کرنے میں خرابی: {error}",
+    "@errorInitializingCamera": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    "errorCapturingPhoto": "تصویر لینے میں خرابی: {error}",
+    "@errorCapturingPhoto": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    "photoUploadNotImplemented": "تصویر اپ لوڈ کرنے کی سہولت ابھی دستیاب نہیں ہے",
+    "kgUnit": "کلو",
+    "number0": "۰",
+    "number1": "۱",
+    "number2": "۲",
+    "number3": "۳",
+    "number4": "۴",
+    "number5": "۵",
+    "number6": "۶",
+    "number7": "۷",
+    "number8": "۸",
+    "number9": "۹",
+    "numberWithUnit": "{number} {unit}",
+    "@numberWithUnit": {
+        "placeholders": {
+            "number": {
+                "type": "String"
+            },
+            "unit": {
+                "type": "String"
+            }
+        }
+    }
+}

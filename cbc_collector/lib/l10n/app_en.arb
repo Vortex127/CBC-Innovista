@@ -1,0 +1,80 @@
+{
+    "@@locale": "en",
+    "appTitle": "CBC Collector",
+    "welcomeBack": "Welcome Back",
+    "createAccount": "Create Account",
+    "email": "Email",
+    "password": "Password",
+    "home": "Home",
+    "collections": "Collections",
+    "profile": "Profile",
+    "takePhoto": "Take Photo",
+    "retake": "Retake",
+    "upload": "Upload",
+    "all": "All",
+    "ongoing": "Ongoing",
+    "completed": "Completed",
+    "location": "Location",
+    "date": "Date",
+    "statistics": "Statistics",
+    "settings": "Settings",
+    "personalInfo": "Personal Information",
+    "notifications": "Notifications",
+    "language": "Language",
+    "helpAndSupport": "Help & Support",
+    "logout": "Logout",
+    "needAccount": "Need an account? Sign up",
+    "haveAccount": "Have an account? Login",
+    "login": "Login",
+    "signUp": "Sign Up",
+    "collectorId": "Collector ID",
+    "todayCollections": "Today's Collections",
+    "totalWeight": "Total Weight",
+    "activeRequests": "Active Requests",
+    "collectionArea": "Collection Area",
+    "startCollection": "Start Collection",
+    "viewRequests": "View Requests",
+    "welcomeBackUser": "Welcome back!",
+    "totalCollections": "Total Collections",
+    "rating": "Rating",
+    "collection": "Collection",
+    "errorInitializingCamera": "Error initializing camera: {error}",
+    "@errorInitializingCamera": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    "errorCapturingPhoto": "Error capturing photo: {error}",
+    "@errorCapturingPhoto": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    "photoUploadNotImplemented": "Photo upload not implemented yet",
+    "kgUnit": "kg",
+    "number0": "0",
+    "number1": "1",
+    "number2": "2",
+    "number3": "3",
+    "number4": "4",
+    "number5": "5",
+    "number6": "6",
+    "number7": "7",
+    "number8": "8",
+    "number9": "9",
+    "numberWithUnit": "{number} {unit}",
+    "@numberWithUnit": {
+        "placeholders": {
+            "number": {
+                "type": "String"
+            },
+            "unit": {
+                "type": "String"
+            }
+        }
+    }
+}

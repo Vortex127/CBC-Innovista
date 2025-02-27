@@ -1,0 +1,36 @@
+{
+    "@@locale": "sd",
+    "appTitle": "سي بي سي ڪلڪٽر",
+    "welcomeBack": "ڀلي ڪري آيا",
+    "createAccount": "کاتو ٺاهيو",
+    "email": "اي ميل",
+    "password": "پاسورڊ",
+    "home": "گھر",
+    "collections": "گڏ ڪيل",
+    "profile": "پروفائل",
+    "takePhoto": "فوٽو وٺو",
+    "retake": "ٻيهر وٺو",
+    "upload": "اپلوڊ",
+    "all": "سڀ",
+    "ongoing": "جاري",
+    "completed": "مڪمل",
+    "location": "مڪان",
+    "date": "تاريخ",
+    "errorInitializingCamera": "ڪئميرا کولڻ ۾ خرابي: {error}",
+    "@errorInitializingCamera": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    "errorCapturingPhoto": "فوٽو وٺڻ ۾ خرابي: {error}",
+    "@errorCapturingPhoto": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    "photoUploadNotImplemented": "فوٽو اپلوڊ ڪرڻ جي سهولت اڃان دستياب ناهي"
+}
