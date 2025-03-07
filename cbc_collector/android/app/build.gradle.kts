@@ -7,8 +7,8 @@ plugins {
 
 android {
     namespace = "com.example.cbc_collector"
-    compileSdk = flutter.compileSdkVersion
-    ndkVersion = flutter.ndkVersion
+    compileSdk = 34
+    ndkVersion = "28.0.12916984"
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
